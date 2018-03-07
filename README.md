@@ -49,7 +49,7 @@
 
 ```bash
 $ git clone https://github.com/whevether/yghy-admin.git --depth=1
-$ cd xunlonghe
+$ cd yghy-admin
 $ npm install
 $ npm start         # 访问 http://localhost:8000
 ```
